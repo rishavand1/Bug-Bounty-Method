@@ -62,7 +62,7 @@ Comment section
 User submits:
 
 ```
-Name: Vishu
+Name: vishnu
 
 Comment:
 Hello everyone!
@@ -73,7 +73,7 @@ Database:
 ```text
 Name      Comment
 ----------------------------
-Vishu     Hello everyone!
+vishnu     Hello everyone!
 ```
 
 Later the webpage displays:
