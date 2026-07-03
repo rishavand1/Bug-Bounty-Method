@@ -110,9 +110,9 @@ Request
 ```http
 POST /register
 
-username=vishu
+username=vishnu
 email=test@example.com
-city=Indore
+city=Aurangabad
 ```
 
 Backend
@@ -304,7 +304,8 @@ Such parameters may expose additional functionality.
 User registers
 
 ```text
-Username: Vishu
+Username: Vishnu
+
 ```
 
 Stored in database.
